@@ -1,0 +1,8 @@
+const authActions = {
+  REQUEST_TOKENS: '@AUTH/REQUEST_TOKENS',
+  UPDATE_TOKENS: '@AUTH/UPDATE_TOKENS',
+  REQUEST_USER: '@AUTH/REQUEST_USER',
+  UPDATE_USER: '@AUTH/UPDATE_USER',
+};
+
+export default authActions;
